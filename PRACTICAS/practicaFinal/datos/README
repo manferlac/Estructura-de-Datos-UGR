@@ -1,0 +1,22 @@
+Los ficheros que se encuentran en este directorio son los siguiente:
+*mapa1.ppm: es una imagen de color que contiene un mapamundi. Se puede visualizar con
+la sentencia:
+        display mapa1.ppm.
+*codigo_objetivos_ciudades1.txt, codigo_objetivos_ciudades2.txt: contiene la información de posibles atentados en ciudades 
+codificadas como un Quadtree. 
+
+*objetivos_ciudades1.txt,objetivos_ciudades2.txt: las ciudades que deben producir
+el programa descubre_objetivos para codigos_objetivos_ciudades1.txt y codigo_objetivos_ciudades2.txt.
+
+*mapa_objetivos1.pp ,mapa_objetivos2.ppm: imagenes con la particion Quadtree del mapamundi
+para codigo_objetivos_ciudades1.txt y codigo_objetivos_ciudades2.txt respectivamten.
+
+*ciudades.csv: fichero con la información de las ciudades del mundo.
+
+Para hacer purebas con una particion pequeña están los ficheros
+codigos_ciudades_small.txt
+
+Las ciudades resultantes son:
+objetivos_ciudades_small.txt
+y la particion resultante :
+mapa_objetivos_ciudades_small.ppm

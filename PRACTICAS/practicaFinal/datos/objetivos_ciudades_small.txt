@@ -1,0 +1,97 @@
+Aboa Station;Antarctica;-75.0496;-13.4167;15
+
+Artigas Base;Antarctica;-62.1739;-58.8639;34
+
+Capitan Arturo Prat Station;Antarctica;-62.4995;-59.6833;41
+
+Doctor Sobral;Antarctica;-81.1791;-40.5015;20
+
+Elephant Island. South Shetland Islands;Antarctica;-61.9996;-58;3
+
+Escudero Station;Antarctica;-62.195;-58.9527;20
+
+Esperanza Station;Antarctica;-63.3753;-57.0259;152
+
+General Belgrano Station;Antarctica;-77.8663;-34.6167;57
+
+General Bernado O'Higgins Station;Antarctica;-63.3284;-57.8896;30
+
+Great Wall Station;Antarctica;-62.2163;-58.9667;26
+
+Halley Station;Antarctica;-76.0923;-26.4742;43
+
+King Sejong Station;Antarctica;-62.2249;-58.7716;53
+
+Neumayer;Antarctica;-70.8904;-7.83844;40
+
+Novolazarevskaya Station;Antarctica;-71.3012;-11.8502;35
+
+Orcadas Station;Antarctica;-60.7329;-44.7333;29
+
+Palmer Station;Antarctica;-64.7624;-64.0469;30
+
+Rothera Station;Antarctica;-67.5648;-68.1235;76
+
+San Martín Station;Antarctica;-68.1163;-67.1;19
+
+Signy Island;Antarctica;-60.6313;-45.6007;4
+
+Svea Station;Antarctica;-74.5829;-11.2167;5
+
+Teniente Jubany Station;Antarctica;-62.2241;-58.6505;40
+
+Teniente Rodolfo Marsh Station;Antarctica;-62.1827;-58.9077;115
+
+Vicecomodoro Marambio Station;Antarctica;-64.2329;-56.65;102
+
+Wasa Station;Antarctica;-73.0496;-13.4167;5
+
+28 de Noviembre;Argentina;-51.65;-72.3;5300
+
+Alto Rio Sanguer;Argentina;-45.0333;-70.8333;1548
+
+Comodoro Rivadavia;Argentina;-45.87;-67.5;123291
+
+Comondante Luis Piedrabuena;Argentina;-49.9745;-68.9035;410
+
+El Calafate;Argentina;-50.3333;-72.3;6329
+
+Gobernador Gregores;Argentina;-48.7666;-70.25;2519
+
+Paso Rio Mayo;Argentina;-45.6834;-70.2666;1825
+
+Perito Moreno;Argentina;-46.6;-70.9334;3766
+
+Puerto Deseado;Argentina;-47.75;-65.9;3305
+
+Puerto San Julian;Argentina;-49.3;-67.7167;2347
+
+Rio Gallegos;Argentina;-51.6333;-69.2166;77183
+
+Rio Grande;Argentina;-53.7914;-67.699;31095
+
+Sarmiento;Argentina;-45.6;-69.0833;5185
+
+Ushuaia;Argentina;-54.79;-68.31;50483
+
+Cochrane;Chile;-47.2663;-72.5499;4441
+
+Coihaique;Chile;-45.57;-72.07;43221
+
+Puerto Aisen;Chile;-45.3999;-72.7;8067
+
+Puerto Natales;Chile;-51.7183;-72.5117;10393
+
+Puerto Williams;Chile;-54.9333;-67.6167;2381
+
+Punta Arenas;Chile;-53.165;-70.94;106296
+
+Rio Verde;Chile;-52.65;-71.4666;358
+
+Villa O'Higgins;Chile;-48.4679;-72.56;175
+
+Fox Bay;Falkland Islands;-51.9506;-60.087;90
+
+Stanley;Falkland Islands;-51.7;-57.85;2213
+
+Grytviken;South Georgia and the Islands;-54.2806;-36.508;99
